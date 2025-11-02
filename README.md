@@ -1,3 +1,1 @@
-In this repository I will be creating helpful materials for myself to learn and come back if need to sharpen my understanding of neural network and 
-its application from scratch. Its my deisre to keep it mathematically and computationally as much descriptive as it can be extended for analyzing
-diagnostic medical images for pattern recognition problems.
+In this repository, I am developing a collection of resources and implementations to strengthen and revisit my understanding of neural networks and their applications from first principles. My goal is to maintain a mathematically rigorous and computationally detailed approach, extending these concepts toward the analysis of diagnostic medical images and pattern recognition problems.
